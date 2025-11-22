@@ -19,10 +19,6 @@ theme:
     - navigation.sections
     - navigation.tracking
 
-nav:
-  - Home: index.md
-  - CV (PDF): assets/reports/CV.pdf
-
 extra_css:
   - assets/styles.css
 

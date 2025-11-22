@@ -16,6 +16,7 @@ Engineer and physicist trained at École Normale Supérieure Ulm, I work at the 
 
 - Email: [estefoucher@gmail.com](mailto:estefoucher@gmail.com)  
 - LinkedIn: [linkedin.com/in/esteban-foucher](https://www.linkedin.com/in/esteban-foucher-70262a22a/)
+- CV (PDF): [Download](assets/reports/CV.pdf)
 
 ## Professional Experience
 
