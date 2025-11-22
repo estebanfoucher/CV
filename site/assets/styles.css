@@ -8,6 +8,21 @@ body {
   margin: 0 auto;
 }
 
+/* Hide header title (duplicate 'Esteban Foucher' in top-left) */
+.md-header__title {
+  display: none !important;
+}
+
+/* Hide sidebars (navigation and table of contents) completely */
+.md-sidebar--primary,
+.md-sidebar--secondary {
+  display: none !important;
+}
+
+.md-main__inner {
+  margin: 0 auto !important;
+}
+
 /* Headings */
 .md-typeset h1,
 .md-typeset h2,
@@ -35,8 +50,18 @@ body {
 .md-typeset img[alt*="Portrait of Esteban Foucher"] {
   float: right;
   max-width: 220px;
+  height: auto;
   margin: 0 0 1rem 1.5rem;
   border-radius: 999px;
+}
+
+@media (max-width: 600px) {
+  .md-typeset img[alt*="Portrait of Esteban Foucher"] {
+    float: right;
+    display: block;
+    max-width: 30%;
+    margin: 0 0 1rem 1rem;
+  }
 }
 
 /* Videos */
