@@ -8,7 +8,7 @@ hide:
 
 Engineer & physicist – École Normale Supérieure Ulm (class of 2020)
 
-As a “full‑stack scientist” engineer, my physics background and professional experience allow me to tackle a wide range of scientific topics, from theory to software and hardware. I am currently a thermo‑hydraulic simulation engineer at Jimmy Energy. In parallel I am developing an embedded computer‑vision system dedicated to aerodynamic measurements.
+Engineer and physicist trained at École Normale Supérieure Ulm, I work at the intersection of simulation, data, and applied physics. I am currently a thermo-hydraulic simulation engineer at Jimmy Energy, where I contribute to reactor conception. In parallel, I develop an embedded computer-vision system for aerodynamic measurements.
 
 ![Portrait of Esteban Foucher](assets/photo.jpg)
 
