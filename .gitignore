@@ -1,0 +1,15 @@
+# Python / env
+.venv/
+__pycache__/
+
+# MkDocs build output
+site/
+
+# LaTeX build artifacts
+*.aux
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.log
+
+
