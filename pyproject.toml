@@ -1,0 +1,13 @@
+[project]
+name = "cv-mkdocs-site"
+version = "0.1.0"
+description = "Minimalist CV website for Esteban Foucher, built with MkDocs and Material theme."
+requires-python = ">=3.12"
+dependencies = [
+  "mkdocs>=1.6,<2.0",
+  "mkdocs-material>=9.7,<10.0",
+]
+
+[project.optional-dependencies]
+dev = []
+
