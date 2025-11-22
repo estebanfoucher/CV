@@ -5,31 +5,33 @@
 
 Ingénieur, physicien - Elève normalien ENS Ulm (promotion 2020)
 
-Ingénieur physicien avec une bonne expérience en développement logiciel et en data engineering.\
+Ingénieur type "scientifique full stack", mon background de physique et mes expériences professionnelles me permettent d'aborder une vaste variété de sujets scientifiques sous leurs aspects théorique, software et hardware.
 Actuellement ingénieur en simulations thermo-hydrauliques chez Jimmy Energy, je développe en parallèle un système de computer vision embarquée dédié à la mesure aérodynamique.
 
 ## **Expériences professionnelles**
 
 ### **2025 — Ingénieur simulations thermo-hydrauliques, Jimmy Energy**
 
-- Simulation dynamique des fluides avec automatisation de workflow par scriptage python ==>> bcp trop chip  , faire 3 lignes
 
----
-### **2023–2024 — Stage ingénieur nucléaire, Jimmy Energy**
 
-- Support à l’ingénierie de conception et de sûreté du réacteur **SMR Jimmy**, pour la production de chaleur industrielle bas carbone.
+Aujourd'hui :
+- Simulations thermohydrauliques (computational fluid dynamics)
+
+Stage :
+- Support à l’ingénierie de conception et de sûreté du réacteur
 - Simulations exploratoires de cinétique chimique sous irradiation
 
+Mon expérience chez Jimmy comprend un premier stage en 2023-2024, puis un retour en équipe simulations en 2025.
+
+---
 
 ### **2024 — Ingénieur data & performance, Orient Express Racing Team**
 
-3 axes -DATA (data eng && data analyste)
--data science (wind calibration, )
--RnD en collaboration avec notamment les mecatroniciens
+- Data engineer & analyst : pour l'analyse de performance de l'AC40 et l'AC75 (voilier de course)
+- Data science : développement d'un outil de recalcul du vent a posteriori et d'un optimiseur pour calibration
+- Collaborations avec l'équipe mécatronicienne pour debug de 
 
-- Développement d'un backend d'analyse de données pour la performance d'un voilier de course
-- Développement d'un outil de recalcul du vent a posteriori et d'un optimiseur pour la calibration
-- Déploiement pour visualisation en live par les marins et les coach sur la stack Elasticsearch-Kibana
+Mon expérience à OERT va notamment de la mise en service de l'AC75 jusqu'à la participation à la 37eme edition de l'America's Cup.
 
 ---
 
@@ -62,24 +64,30 @@ Laboratoire de Physique de l’ENS – équipe Nano-fluidique
 ---
 ## **Cursus scolaire**
 
-### **2020–2023 — École Normale Supérieure, Paris**
+### **2020–2024 — École Normale Supérieure, Paris**
 
 * **Master ICFP** : Physique fondamentale (spécialité physique quantique)
 * **Licence** : Physique fondamentale
 
-Domaines étudiés : physique quantique, physique statistique, mécanique des fluides et turbulence, relativité restreinte, physique du solide, théorie quantique des champs, relativité générale
+**Domaines étudiés :**
+
+**Physique** : physique quantique, physique statistique, physique du solide, relativité restreinte, théorie quantique des champs, relativité générale, mécanique des fluides.
+
+**Sciences numériques** : méthodes numériques pour équations aux dérivées partielles, machine learning
+
+**Mathématiques** : statistiques, probabilités, optimisation, algèbre, analyse
 
 ## **Projets**
 
-### SailCV (pas encore publié)
+### SailCV
 
-Motivé par mon expérience du monde de la voile, je développe sur mon temps libre un projet de computer vision embarquée appliquée à la mesure aérodynamique. La visée est de créer à terme des outils d'analyse en live.
+Motivé par mon expérience du monde de la voile, je développe sur mon temps libre un projet de computer vision embarquée appliquée à la mesure aérodynamique.
 
 Celui-ci se décompose en 2 sous-projets :
 
 **SailCV-tell-tale-tracker**
 
-Ce projet vise à construire un tracker de pennons pour suivre les décollements de couche limite. Il implique notamment le fine tuning d'un détecteur sur un dataset d'images personnellement construit. 
+Conception d'un tracker de pennons pour suivre les décollements de couche limite. Création d'un dataset, fine-tuning d'un détecteur. 
 
 **SailCV-3D-reconstruction**
 
