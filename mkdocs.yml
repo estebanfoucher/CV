@@ -26,6 +26,10 @@ nav:
 extra_css:
   - assets/styles.css
 
+plugins:
+  - search:
+      enabled: false
+
 markdown_extensions:
   - toc:
       permalink: true
