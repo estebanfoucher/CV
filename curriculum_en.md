@@ -12,7 +12,7 @@ I am currently a thermo‑hydraulic simulation engineer at Jimmy Energy. In para
 
 ### **2025 — Thermo‑hydraulic Simulation Engineer, Jimmy Energy**
 
-Today:
+Currently:
 - Thermo‑hydraulic simulations (computational fluid dynamics)
 
 Internship:
