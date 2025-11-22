@@ -8,6 +8,16 @@ body {
   margin: 0 auto;
 }
 
+/* Hide sidebars (navigation and table of contents) */
+.md-sidebar--primary,
+.md-sidebar--secondary {
+  display: none;
+}
+
+.md-main__inner {
+  margin: 0 auto;
+}
+
 /* Headings */
 .md-typeset h1,
 .md-typeset h2,
@@ -42,10 +52,10 @@ body {
 
 @media (max-width: 600px) {
   .md-typeset img[alt*="Portrait of Esteban Foucher"] {
-    float: none;
+    float: right;
     display: block;
     max-width: 30%;
-    margin: 1rem auto 1.5rem;
+    margin: 0 0 1rem 1rem;
   }
 }
 
