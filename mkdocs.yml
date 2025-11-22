@@ -21,7 +21,7 @@ theme:
 
 nav:
   - Home: index.md
-  - CV: cv.md
+  - CV (PDF): assets/reports/CV.pdf
 
 extra_css:
   - assets/styles.css
