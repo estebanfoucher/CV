@@ -8,6 +8,11 @@ body {
   margin: 0 auto;
 }
 
+/* Hide header title (duplicate 'Esteban Foucher' in top-left) */
+.md-header__title {
+  display: none;
+}
+
 /* Hide sidebars (navigation and table of contents) */
 .md-sidebar--primary,
 .md-sidebar--secondary {
