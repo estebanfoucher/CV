@@ -34,7 +34,8 @@ body {
 /* Home page portrait image */
 .md-typeset img[alt*="Portrait of Esteban Foucher"] {
   float: right;
-  max-width: 220px;
+  max-width: 30%;
+  height: auto;
   margin: 0 0 1rem 1.5rem;
   border-radius: 999px;
 }
