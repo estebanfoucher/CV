@@ -15,8 +15,7 @@ Engineer and physicist trained at École Normale Supérieure Ulm, I work at the 
 ## Contact
 
 - Email: [estefoucher@gmail.com](mailto:estefoucher@gmail.com)  
-- Phone: +33 6 43 82 27 00  
-- LinkedIn: [linkedin.com/in/esteban-foucher-70262a22a](https://www.linkedin.com/in/esteban-foucher-70262a22a/)
+- LinkedIn: [linkedin.com/in/esteban-foucher](https://www.linkedin.com/in/esteban-foucher-70262a22a/)
 
 ## Downloads
 
