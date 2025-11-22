@@ -10,17 +10,17 @@ body {
 
 /* Hide header title (duplicate 'Esteban Foucher' in top-left) */
 .md-header__title {
-  display: none;
+  display: none !important;
 }
 
-/* Hide sidebars (navigation and table of contents) */
+/* Hide sidebars (navigation and table of contents) completely */
 .md-sidebar--primary,
 .md-sidebar--secondary {
-  display: none;
+  display: none !important;
 }
 
 .md-main__inner {
-  margin: 0 auto;
+  margin: 0 auto !important;
 }
 
 /* Headings */
