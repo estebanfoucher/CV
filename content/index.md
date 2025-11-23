@@ -1,5 +1,5 @@
 ---
-title: "Esteban Foucher"
+title: "Curriculum Vitae"
 hide:
   - toc
 ---
