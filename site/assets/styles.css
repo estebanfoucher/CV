@@ -87,12 +87,17 @@ label.md-header__button.md-icon[for="__drawer"] {
   border-radius: 8px;
 }
 
+.md-typeset img[alt="SailCV tell‑tale tracker demo"] {
+  max-width: 62.5%;
+  height: auto;
+}
+
 .md-typeset img[alt="SailCV 3D reconstruction demo"] {
-  max-width: 220px;
+  max-width: 138px;
 }
 
 .md-typeset img[alt="SailCV combined demo"] {
-  max-width: 420px;
+  max-width: 262px;
 }
 
 /* Links */
