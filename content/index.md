@@ -10,7 +10,7 @@ Engineer & physicist – École Normale Supérieure Ulm (class of 2020)
 
 Engineer and physicist trained at École Normale Supérieure Ulm, I work at the intersection of simulation, data, and applied physics. I am currently a thermo-hydraulic simulation engineer at Jimmy Energy, where I contribute to nuclear reactor conception. In parallel, I develop an embedded computer-vision system for aerodynamic measurements.
 
-CV (PDF): [Download](assets/reports/CV.pdf)
+CV (PDF): [Download](assets/reports/Esteban_Foucher_CV.pdf)
 
 ![Portrait of Esteban Foucher](assets/photo.jpg)
 
