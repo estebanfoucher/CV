@@ -59,7 +59,8 @@ label.md-header__button.md-icon[for="__drawer"] {
 /* Home page portrait image */
 .md-typeset img[alt*="Portrait of Esteban Foucher"] {
   float: right;
-  max-width: 220px;
+  max-width: 25%;
+  min-width: 150px;
   height: auto;
   margin: 0 0 1rem 1.5rem;
   border-radius: 999px;
@@ -69,7 +70,7 @@ label.md-header__button.md-icon[for="__drawer"] {
   .md-typeset img[alt*="Portrait of Esteban Foucher"] {
     float: right;
     display: block;
-    max-width: 30%;
+    max-width: 25%;
     margin: 0 0 1rem 1rem;
   }
 }
@@ -88,16 +89,16 @@ label.md-header__button.md-icon[for="__drawer"] {
 }
 
 .md-typeset img[alt="SailCV tell‑tale tracker demo"] {
-  max-width: 62.5%;
+  max-width: 40%;
   height: auto;
 }
 
 .md-typeset img[alt="SailCV 3D reconstruction demo"] {
-  max-width: 138px;
+  max-width: 50%;
 }
 
 .md-typeset img[alt="SailCV combined demo"] {
-  max-width: 262px;
+  max-width: 95%;
 }
 
 /* Links */
