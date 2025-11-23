@@ -19,6 +19,7 @@ CV (PDF): [Download](assets/reports/CV.pdf)
 - Email: [estefoucher@gmail.com](mailto:estefoucher@gmail.com)  
 - LinkedIn: [linkedin.com/in/esteban-foucher](https://www.linkedin.com/in/esteban-foucher-70262a22a/)
 
+---
 
 ## Professional Experience
 
@@ -125,5 +126,3 @@ This project aims to accurately reconstruct metric point clouds from calibrated 
 ### Normale Physics Review
 
 Contribution to the creation and writing of the student physics journal [Normale Physics Review](https://normalephysicsreview.netlify.app/).
-
-

@@ -1,6 +1,5 @@
 site_name: "Esteban Foucher"
-site_description: "Minimalist online CV of Esteban Foucher (engineer & physicist, ENS Ulm)."
-site_author: "Esteban Foucher"
+site_description: "Curriculum vitae"
 
 docs_dir: content
 
