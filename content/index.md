@@ -12,7 +12,7 @@ Engineer and physicist trained at École Normale Supérieure Ulm, I work at the 
 
 CV (PDF): [Download](assets/reports/Esteban_Foucher_CV.pdf)
 
-![Portrait of Esteban Foucher](assets/photo.jpg)
+![Portrait of Esteban Foucher](assets/photo.png)
 
 ## Contact
 
