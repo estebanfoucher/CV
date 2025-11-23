@@ -10,7 +10,7 @@ Engineer & physicist – École Normale Supérieure Ulm (class of 2020)
 
 Engineer and physicist trained at École Normale Supérieure Ulm, I work at the intersection of simulation, data, and applied physics. I am currently a thermo-hydraulic simulation engineer at Jimmy Energy, where I contribute to nuclear reactor conception. In parallel, I develop an embedded computer-vision system for aerodynamic measurements.
 
-CV (PDF): [Download](assets/reports/Esteban_Foucher_CV.pdf)
+CV (PDF): [Download](https://estebanfoucher.github.io/CV/assets/reports/Esteban_Foucher_CV.pdf)
 
 ![Portrait of Esteban Foucher](assets/photo.png)
 
@@ -57,7 +57,7 @@ Laboratory of Physics, École Normale Supérieure – Nano‑optics group
 - Conception of the ultrabroadband micro‑photodetection experiment  
 - Fabrication of PtSe₂ field‑effect transistors
 
-- [Download internship report (PDF)](assets/reports/report_2023.pdf)
+- [Download internship report (PDF)](https://estebanfoucher.github.io/CV/assets/reports/report_2023.pdf)
 
 ---
 
@@ -67,7 +67,7 @@ Theory & Simulation of Condensed Matter Group – King’s College London
 
 **Topic:** Fully bold formalism at strong coupling regime for the (0 + 0)‑dimensional Hubbard model (theoretical study of a strongly interacting electron system).
 
-- [Download internship report (PDF)](assets/reports/report_2022.pdf)
+- [Download internship report (PDF)](https://estebanfoucher.github.io/CV/assets/reports/report_2022.pdf)
 
 ---
 
@@ -77,7 +77,7 @@ Laboratory of Physics, ENS – Nanofluidics group
 
 **Topic:** Measurement of fluid flows at the nanoscale using confocal fluorescence microscopy.
 
-- [Download internship report (PDF)](assets/reports/report_2021.pdf)
+- [Download internship report (PDF)](https://estebanfoucher.github.io/CV/assets/reports/report_2021.pdf)
 
 ---
 
