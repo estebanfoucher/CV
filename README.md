@@ -1,5 +1,7 @@
 ## CV MkDocs site
 
+link : https://github.com/estebanfoucher/CV
+
 This repository hosts a minimalist CV website built with **MkDocs** (Material theme).
 
 The source pages live in the `content/` directory and are rendered to a static site.
