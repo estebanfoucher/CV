@@ -100,22 +100,19 @@ Laboratory of Physics, ENS – Nanofluidics group
 
 ### SailCV – Embedded computer‑vision for aerodynamic measurements
 
-Motivated by my experience in the sailing world, I am developing in my spare time an embedded computer‑vision project dedicated to aerodynamic measurements.
+Motivated by my experience in the sailing world, I develop **SailCV** in my spare time: one embedded computer‑vision codebase dedicated to aerodynamic measurements on sails, with a project site at [sail-cv.com](https://sail-cv.com) and open source on [GitHub](https://github.com/estebanfoucher/Sail-CV).
 
-- **Website:** [sail-cv.com](https://sail-cv.com)  
-- **Code:** [github.com/estebanfoucher/Sail-CV](https://github.com/estebanfoucher/Sail-CV)
+The same repository implements two complementary **modules** that share minimal hardware requirements and can be used independently:
 
-The project is divided into two sub‑projects:
-
-#### SailCV – tell‑tale‑tracker
+#### Tell‑tale tracking
 
 Design of a tell‑tale tracker to monitor boundary‑layer separation. Creation of a dataset and fine‑tuning of a detector.
 
 ![SailCV tell‑tale tracker demo](assets/videos/tell_tales_demo_clip.gif)
 
-#### SailCV – 3D‑reconstruction
+#### 3D reconstruction
 
-This project aims to accurately reconstruct metric point clouds from calibrated stereo views. It is based on two main components:
+This module aims to accurately reconstruct metric point clouds from calibrated stereo views. It is based on two main components:
 
 - the ability of recent AI models dedicated to 3D reconstruction to predict dense point correspondences between two views of the same object;  
 - precise calibration of the intrinsic and extrinsic parameters of a dual‑camera system, enabling accurate triangulation.
