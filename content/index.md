@@ -102,7 +102,7 @@ Laboratory of Physics, ENS – Nanofluidics group
 
 Motivated by my experience in the sailing world, I develop **SailCV** in my spare time: one embedded computer‑vision codebase dedicated to aerodynamic measurements on sails, with a project site at [sail-cv.com](https://sail-cv.com) and open source on [GitHub](https://github.com/estebanfoucher/Sail-CV).
 
-The same repository implements two complementary **modules** that share minimal hardware requirements and can be used independently:
+The same repository implements two complementary modules that share minimal hardware requirements and can be used independently:
 
 #### Tell‑tale tracking
 
