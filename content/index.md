@@ -102,6 +102,9 @@ Laboratory of Physics, ENS – Nanofluidics group
 
 Motivated by my experience in the sailing world, I am developing in my spare time an embedded computer‑vision project dedicated to aerodynamic measurements.
 
+- **Website:** [sail-cv.com](https://sail-cv.com)  
+- **Code:** [github.com/estebanfoucher/Sail-CV](https://github.com/estebanfoucher/Sail-CV)
+
 The project is divided into two sub‑projects:
 
 #### SailCV – tell‑tale‑tracker
